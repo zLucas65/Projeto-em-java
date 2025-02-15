@@ -1,1 +1,1 @@
-Um simulador de financiamentos
+Simulador de financiamentos
